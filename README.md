@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Hemant Lekhak
 
-<!--
-**redteamcs11/redteamcs11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Web & Mobile App Developer | 🔐 Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: HTML, CSS, JavaScript, Python
+- Tools: Git, GitHub, VS Code, Arduino
+- Interests: AI, Robotics, Ethical Hacking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔹 [Digital Clock Simulator with Arduino](link)
+- 🔹 [Portfolio Website](link)
+- 🔹 [Cybersecurity Learning Roadmap](link)
+
+## 📫 Contact
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](link)
