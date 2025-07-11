@@ -19,3 +19,6 @@
 
 ![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=redteamcs11&show_icons=true&theme=radical)
 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HemantLekhak&theme=highcontrast)](https://git.io/streak-stats)
