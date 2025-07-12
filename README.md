@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Hemant Lekhak
 
+![Shinchan Badge](https://raw.githubusercontent.com/redteamcs11/Badge/refs/heads/main/abzsy3tgy.webp)
+
 🎓 Student | 💻 Web & Mobile App Developer | 🔐 Cybersecurity Enthusiast
 
 ## 🛠️ Skills
@@ -15,8 +17,6 @@
 ## 📫 Contact
 - Email: your.email@example.com
 - LinkedIn: [Your LinkedIn](link)
-
-![Shinchan Badge](https://raw.githubusercontent.com/redteamcs11/Badge/refs/heads/main/abzsy3tgy.webp)
 
 
 
