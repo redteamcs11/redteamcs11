@@ -16,10 +16,8 @@
 - Email: your.email@example.com
 - LinkedIn: [Your LinkedIn](link)
 
+![Shinchan Badge](https://raw.githubusercontent.com/redteamcs11/Badge/refs/heads/main/abzsy3tgy.webp)
 
-![Shinchan Badge](https://github.com/HemantLekhak/badges/blob/main/shinchan.png?raw=true)
-
-[![Shinchan Badge](https://github.com/HemantLekhak/badges/blob/main/shinchan.png?raw=true)](https://github.com/HemantLekhak)
 
 
 
