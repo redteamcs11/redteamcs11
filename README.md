@@ -17,6 +17,10 @@
 - LinkedIn: [Your LinkedIn](link)
 
 
+  ![Shinchan Badge](https://i.pinimg.com/originals/85/6f/eb/856feb63f8fe0e035f582ca94b092d3f.png)
+
+
+
 ![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=redteamcs11&show_icons=true&theme=radical)
 
 
@@ -36,5 +40,3 @@ Main Languages:
 <a href="https://github.com/HemantLekhak">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="80" alt="Pikachu Badge"/>
 </a>
-
-![Shinchan Badge](https://i.pinimg.com/originals/85/6f/eb/856feb63f8fe0e035f582ca94b092d3f.png)
