@@ -32,3 +32,8 @@ Main Languages:
 
 
 ![Pikachu Badge](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)
+
+<a href="https://github.com/HemantLekhak">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="80" alt="Pikachu Badge"/>
+</a>
+
