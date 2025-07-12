@@ -19,6 +19,8 @@
 
 ![Shinchan Badge](https://github.com/HemantLekhak/badges/blob/main/shinchan.png?raw=true)
 
+[![Shinchan Badge](https://github.com/HemantLekhak/badges/blob/main/shinchan.png?raw=true)](https://github.com/HemantLekhak)
+
 
 
 ![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=redteamcs11&show_icons=true&theme=radical)
