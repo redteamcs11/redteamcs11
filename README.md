@@ -37,3 +37,4 @@ Main Languages:
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="80" alt="Pikachu Badge"/>
 </a>
 
+![Shinchan Badge](https://i.pinimg.com/originals/85/6f/eb/856feb63f8fe0e035f582ca94b092d3f.png)
