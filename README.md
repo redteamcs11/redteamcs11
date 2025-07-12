@@ -31,9 +31,4 @@ Main Languages:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 
-# Weather App 🌦️
-
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-
-This is a simple weather app built using HTML, CSS, and JavaScript.
+![Pikachu Badge](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)
