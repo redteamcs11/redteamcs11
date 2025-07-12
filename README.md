@@ -17,7 +17,7 @@
 - LinkedIn: [Your LinkedIn](link)
 
 
-  ![Shinchan Badge](https://i.pinimg.com/originals/85/6f/eb/856feb63f8fe0e035f582ca94b092d3f.png)
+![Shinchan Badge](https://i.pinimg.com/originals/85/6f/eb/856feb63f8fe0e035f582ca94b092d3f.png)
 
 
 
